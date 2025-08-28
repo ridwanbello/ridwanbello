@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ridwanbello
-- 👀 I’m interested in detecting fraudulent activities across texts, images and videos
-- 🌱 I’m currently learning Deep Learning with Computer Vision and Natural Language Processing
-- 💞️ I’m looking to collaborate on works involving sentence similatities and facial expression recognition
-- 📫 You can reach me at belloridwan60@gmail.com
+- 👀 I’m interested in making important AI applications not only useful in developed countries but also applicable in the Global South, Africa
+- 🌱 I’m currently involved in Speech and Text Processing with Deep Learning 
+- 💞️ I’m looking to collaborate on works involving Speech, Vision, and Inclusive AI
+- 📫 You can reach me at robello2@crimson.ua.edu, belloridwan60@gmail.com
 
 <!---
 ridwanbello/ridwanbello is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
