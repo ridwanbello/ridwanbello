@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ridwanbello
-- 👀 I’m interested in making important AI applications not only useful in developed countries but also applicable in the Global South, Africa
-- 🌱 I’m currently involved in Speech and Text Processing with Deep Learning 
-- 💞️ I’m looking to collaborate on works involving Speech, Vision, and Inclusive AI
+- 👋 Hi, I am @ridwanbello
+- - 🌱 Ph.D. Candidate in CS @ The University of Alabama | Speech Foundation Models, Code-Switched & Accented ASR, PEFT
+- 👀 Interested in making important AI applications not only useful in developed countries but also applicable in the Global South, Africa
+- 💞️ Looking to collaborate on projects related to Speech, Vision, and Inclusive AI
 - 📫 You can reach me at robello2@crimson.ua.edu, belloridwan60@gmail.com
 
 <!---
